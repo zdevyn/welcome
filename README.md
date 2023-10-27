@@ -1,7 +1,7 @@
 # social link hub [WIP]
 
 ## Current links (in order): 
--  Github ❌
+-  Github ✔️
 -  Discord ✔️
 -  Instagram ✔️
 -  Roblox ❌
